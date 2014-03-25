@@ -30,6 +30,12 @@ a:hover {
   text-decoration: none;
 }
 
+blockquote {
+  border-left: 5px solid #76D5DB;
+  font-size: 0.9em;
+  line-height: 1.6em;
+}
+
 .title, .title a {
   color: #FC624C;
   text-decoration: none;
@@ -56,3 +62,4 @@ a:hover {
   font-weight: normal;
   color: #ddd;
 }
+
