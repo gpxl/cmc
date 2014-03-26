@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title type="text" xml:lang="en"></title>
+  <link type="application/atom+xml" href="http://cryptominersclub.com/feed" rel="self"/>
+  <link type="text" href="http://www.cryptominersclub.com" rel="alternate"/>
+  <updated>2014-03-26T11:03:05-07:00</updated>
+  <id>http://www.cryptominersclub.com</id>
+  <author>
+    <name>Gerlando Piro</name>
+  </author>
+  <rights>Copyright (c) 2014, Gerlando Piro; all rights reserved.</rights>
+
+  
+  <entry>
+    <title>Welcome</title>
+    <link href="http://www.cryptominersclub.com/and-we-are-live/index.html"/>
+    <updated>2014-04-01T00:00:00-07:00</updated>
+    <id>http://www.cryptominersclub.com/and-we-are-live/and-we-are-live</id>
+    <content type="html">&lt;h4&gt;Crypto Miners Club is a new site to help &lt;em&gt;you&lt;/em&gt; stay informed on top of important crypto currency market developments.&lt;/h4&gt;
+
+&lt;p&gt;I&amp;#39;ve been actively mining since late 2013 and in that short amount of time a lot has changed. The speed at which the crypto mining market moves is extremely fast and highly competitive. In order to maximize profits and increase your chances of success, you need timely information. &lt;/p&gt;
+
+&lt;p&gt;Unfortunately, there is a lot of speculation, misinformation, and scamming out there. Not to mention the pumping and dumping of numerous shitcoins. How does someone make sense of it all? I believe it&amp;#39;s with open communication and transparancy.&lt;/p&gt;
+
+&lt;p&gt;While I have a small network of friends that pass along information to each other, I felt it would be a great idea to share with a larger audience. My hope is that by helping others, I will recieve help in return.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So let&amp;#39;s do this!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;-Gerlando.&lt;br&gt;
+&lt;a href=&quot;http://www.twitter.com/gpxl&quot;&gt;@gpxl&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>IRS: Bitcoin is property</title>
+    <link href="http://www.cryptominersclub.com/irs-bitcoin-is-property/index.html"/>
+    <updated>2014-03-25T11:57:00-07:00</updated>
+    <id>http://www.cryptominersclub.com/irs-bitcoin-is-property/irs-bitcoin-is-property</id>
+    <content type="html">&lt;p&gt;An important statement for US based miners from the IRS today.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Bitcoin miners would have to report their earnings as taxable income with a value equal to the worth on the day it was mined. If they mine as part of a business, they would have to pay payroll taxes as well.&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Prices on Gridseeds are Dropping</title>
+    <link href="http://www.cryptominersclub.com/gridseed-prices-are-dropping/index.html"/>
+    <updated>2014-03-25T09:21:00-07:00</updated>
+    <id>http://www.cryptominersclub.com/gridseed-prices-are-dropping/gridseed-prices-are-dropping</id>
+    <content type="html">&lt;div class=&quot;alert alert-warning&quot;&gt;
+Right after this article went live, ZoomHash announced a 20 pack of Gridseed miners for $165/each &lt;a href=&quot;http://zoomhash.com/products/20-pack-just-asics-only-no-accessories-shipped-from-china-2-4-business-day-door-to-door-free-shipping-oem-packaging&quot;&gt;here&lt;/a&gt;.
+&lt;/div&gt;
+
+&lt;p&gt;The announcement of the &lt;a href=&quot;https://www.kncminer.com/products/titan&quot;&gt;KNC Titan&lt;/a&gt; last week, and the inevitable spike in mining difficulty it will bring, shocked the mining world and effects are already being seen in the prices of mining hardware. &lt;/p&gt;
+
+&lt;p&gt;Gridseed ASIC miners in particular have seen a huge price decline of over 20% from $250 to $199 or less depending on vendor. To put it another way, the price of these miners is falling faster than the amount of coin value they can generate.&lt;/p&gt;
+
+&lt;p&gt;Even with the price drop the ability of these devices to break even is questionable so further price drops should be expected as vendors squeeze each others margins in a race to the bottom.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Who's Block Chain Is It?</title>
+    <link href="http://www.cryptominersclub.com/whos-blockchain/index.html"/>
+    <updated>2014-03-25T00:00:00-07:00</updated>
+    <id>http://www.cryptominersclub.com/whos-blockchain/whos-blockchain</id>
+    <content type="html">&lt;p&gt;We&amp;#39;re going to see a lot more growing pains with the Bitcoin protocol as more services extend blockchain usage in creative ways.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Here Come The Institutional Investors</title>
+    <link href="http://www.cryptominersclub.com/here-they-come/index.html"/>
+    <updated>2014-03-25T00:00:00-07:00</updated>
+    <id>http://www.cryptominersclub.com/here-they-come/here-they-come</id>
+    <content type="html">&lt;p&gt;There&amp;#39;s a race to bring institutional money into the Bitcoin market. As much as Bitcoin has grown in the past four years it&amp;#39;s nothing compared to the traditional financial markets. This is going to be interesting.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;[Bitcoin market]...activity took the form of 67,054 transactions recorded in the Bitcoin blockchain, in which 630,633.08 BTC changed hands. Next to Wall Street, where the NYSE alone trades 1.4 billion shares and $58 billion in value daily...&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Whoops!</title>
+    <link href="http://www.cryptominersclub.com/whoops/index.html"/>
+    <updated>2014-03-24T00:00:00-07:00</updated>
+    <id>http://www.cryptominersclub.com/whoops/whoops</id>
+    <content type="html">&lt;p&gt;Alex Green, intending to donate 2M Dogecoin to doge4nascar, accidentally donated 20M due to a slip of the keyboard. Seems like he&amp;#39;s taking the $14k mistake in good stride though.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Was meant to be 2M... silly keyboard. I will stand by my mistake however! Anybody care to match me? The first person to match at least 10% will receive a hot pass to Talladega :-).&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Kraken Passes Cryptographically Verifiable Proof of Reserves Audit</title>
+    <link href="http://www.cryptominersclub.com/kraken-passes-audit/index.html"/>
+    <updated>2014-03-24T00:00:00-07:00</updated>
+    <id>http://www.cryptominersclub.com/kraken-passes-audit/kraken-passes-audit</id>
+    <content type="html">&lt;p&gt;This is a very timely marketing move by the Kraken team, but also the right direction for BTC services going forward. &lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Scrypt Mining with a Gridseed ASIC, Raspberry Pi, and Scrypta</title>
+    <link href="http://www.cryptominersclub.com/gridseed-and-pi/index.html"/>
+    <updated>2014-03-02T21:30:00-08:00</updated>
+    <id>http://www.cryptominersclub.com/gridseed-and-pi/gridseed-and-pi</id>
+    <content type="html">&lt;p&gt;Dedicated hardware (ASICs) for scrypt mining finally hit the market in force last month with the release of the &lt;a href=&quot;http://www.dualminer.com&quot;&gt;DualMiner&lt;/a&gt; and &lt;a href=&quot;http://www.gridseed.com&quot;&gt;Gridseed&lt;/a&gt; ASIC mining devices. As expected, early adopters experienced a lot of pain with weak software, faulty hardware, and poor vendor support. However, things quickly improved at the same time an increase in distribution brought about better service from vendors and lower prices. The release of a dedicated &lt;a href=&quot;https://litecointalk.org/index.php?topic=9908.0&quot;&gt;Raspberry Pi distribution for Gridseed devices&lt;/a&gt; finally made ASICs a viable alternative to GPU mining for most people.&lt;/p&gt;
+
+&lt;p&gt;In order to truly understand what these devices are about, I purchased a Gridseed from &lt;a href=&quot;http://zoomhash.com&quot;&gt;ZoomHash&lt;/a&gt;, an unloved &lt;a href=&quot;http://en.wikipedia.org/wiki/Raspberry_Pi&quot;&gt;Raspberry Pi&lt;/a&gt; snagged from a coworker, and set out to see how ASICs compares to GPU mining.&lt;/p&gt;
+
+&lt;div class=&quot;panel panel-default&quot;&gt;
+  &lt;div class=&quot;panel-heading panel-title&quot;&gt;Gridseed in Hand&lt;/div&gt;
+  &lt;div class=&quot;panel-body text-center&quot;&gt;
+    &lt;img src=&quot;/images/gridseed.jpg&quot; alt=&quot;Gridseed&quot; class=&quot;img-responsive&quot;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Setting up the Raspberry Pi was a simple matter of copying Scrypta to a SD card and plugging in the Pi. Once booted a web interface, located at the Pi&amp;#39;s ip address, allows configuration of mining pools and displays mining status information. It&amp;#39;s a well designed interface that&amp;#39;s very nice to use.&lt;/p&gt;
+
+&lt;div class=&quot;panel panel-default&quot;&gt;
+  &lt;div class=&quot;panel-heading panel-title&quot;&gt;Simply Pretty&lt;/div&gt;
+  &lt;div class=&quot;panel-body text-center&quot;&gt;
+    &lt;img src=&quot;/images/scripta.png&quot; alt=&quot;Scripta&quot; class=&quot;img-responsive&quot;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Once the Pi is ready, all that&amp;#39;s left to do is to plug the Gridseed into the Pi with a USB cable and power on both the Gridseed and the Pi.&lt;/p&gt;
+
+&lt;p&gt;That&amp;#39;s all there is to it! Once booted, you should see the Gridseed hashing at 3.6mh/s on your pool of choice. Better yet, it will draw less than 9W of power while doing so, an order of magnitude less than a GPU mining card.&lt;/p&gt;
+
+&lt;p&gt;Adding more Gridseeds gets slightly more complicated in that you will need to add a USB hub since each device requires a port. Each device requires their own power source as well. Using a simple power brick doesn&amp;#39;t scale very well and using a larger power supply requires hacking together your own cables. However, I have no doubt that within the next 30 days a number of out of the box solutions will be on the market.&lt;/p&gt;
+
+&lt;p&gt;Overall my experience with Gridseed Scrypt ASICs has been a positive one. So much so that I&amp;#39;ve started downsizing my GPU mining in favor of them.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Crypto Mining Update: February 2014</title>
+    <link href="http://www.cryptominersclub.com/bitcoin-mining-update-february-2014/index.html"/>
+    <updated>2014-03-02T21:30:00-08:00</updated>
+    <id>http://www.cryptominersclub.com/bitcoin-mining-update-february-2014/bitcoin-mining-update-february-2014</id>
+    <content type="html">&lt;p&gt;February was quite a busy month. My mining operation has doubled in size which brought about some growing pains due to the need for better heat and space management. I learned the value of USB GPU risers which allowed for better placement of GPUs allowing them to run cooler while also allowing a consolidation down to three motherboards!&lt;/p&gt;
+
+&lt;p&gt;Now the rigs are running at comfortable temperatures, but the room temperature is still too warm for comfort. Luckily there&amp;#39;s an abundance of small room temperature management knowledge in the hydroponics community. After a bit of investigation, I now have a plan to better ventilate the basement once some new HVAC hardware arrives.&lt;/p&gt;
+
+&lt;p&gt;This month my preferred mining pool, &lt;a href=&quot;http://www.middlecoin.com&quot;&gt;Middlecoin&lt;/a&gt;, kinds of fell apart and had a few horrible days leading to an exodus of miners. Almost overnight half the hash rate of the pool migrated to other pools such as &lt;a href=&quot;http://www.clevermining.com&quot;&gt;CleverMining&lt;/a&gt; and &lt;a href=&quot;http://www.wafflepool.com&quot;&gt;WafflePool&lt;/a&gt;. I spent most of the month mining &lt;a href=&quot;http://www.maxcoin.co.uk&quot;&gt;MaxCoin&lt;/a&gt; which started off well but has seen a steady decline in value. Sure seems like a pump and dump.
+Maxcoin was interesting in that it was a SHA-3 coin. The SHA-3 algorithm is less memory intensive and allowed for lower GPU temps and power usage. I&amp;#39;d like to see more alt-coins using SHA-3 but for now I&amp;#39;ve gone back to mining scrypt at CleverMining.&lt;/p&gt;
+
+&lt;p&gt;Overall profitability of GPU mining has been relatively stable with CleverMining showing a payout rate of 0.01130 BTC/day/MHs over the past 30 days. (Note: This is no longer true as payout rates for all multipools has dropped nearly 30% since the beginning of March.)&lt;/p&gt;
+
+&lt;p&gt;In addition to mining on Clevermining, I&amp;#39;ve also started renting my rigs on &lt;a href=&quot;https://www.betarigs.com&quot;&gt;BetaRigs&lt;/a&gt; which had shown even larger returns. A high initial hash rate is crucial in generating buzz around new coins and pools so people involved in those activities are willing to pay above market rates to support their efforts. Helping with aforementioned pump and dumps?&lt;/p&gt;
+
+&lt;p&gt;Below is a chart of daily earnings with January in blue and February in Green. The two dips in the middle of February were due to issues with the MiddleCoin pool. The dip at the end of the month was due to a combination of Maxcoin&amp;#39;s decline and my rigs being rented which pushed a payout into the start of March.&lt;/p&gt;
+
+&lt;div class=&quot;panel panel-default&quot;&gt;
+  &lt;div class=&quot;panel-heading panel-title&quot;&gt;February Mining Results&lt;/div&gt;
+  &lt;div class=&quot;panel-body text-center&quot;&gt;
+    &lt;img src=&quot;/images/february-update.png&quot; alt=&quot;Janury Update&quot; class=&quot;img-responsive&quot;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;For the month of March I&amp;#39;m going to slow down the growth rate of hash power until I can get power and temperature conditions in better shape.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Bitcoin Mining Rig Spec Sheet</title>
+    <link href="http://www.cryptominersclub.com/mining-rig-spec-sheet/index.html"/>
+    <updated>2014-03-01T21:30:00-08:00</updated>
+    <id>http://www.cryptominersclub.com/mining-rig-spec-sheet/mining-rig-spec-sheet</id>
+    <content type="html">&lt;p&gt;If you are interested in building a mining rig but not sure where to start, things just got a lot easier.
+Here’s my recommended spec sheet for a rig that, based on current market conditions, provides the best possible bang for the buck.
+This build should cost about $1900, produce a hash rate of at least 2.5MH/s, and produce about $460/month.
+It should draw about 1050 watts so it will work with any non shared 15 amp or greater circuit in your house.
+If you are on a smaller budget you can start with only three GPUs and one PSU saving you $790 and leaving you with the option of expansion in the future.&lt;/p&gt;
+
+&lt;p&gt;Note: Prices are constantly in flux so the prices listed be low may not be completely accurate. But as of March 1, 2014 these still represent the best value.
+I recommend shopping around at &lt;a href=&quot;http://www.newegg.com&quot;&gt;NewEgg&lt;/a&gt;, &lt;a href=&quot;http://www.amazon.com&quot;&gt;Amazon.com&lt;/a&gt;, &lt;a href=&quot;http://www.frys.com&quot;&gt;Frys&lt;/a&gt;, &lt;a href=&quot;http://www.ncix.com&quot;&gt;NCIX&lt;/a&gt;, and your local computer stores for the best price.&lt;/p&gt;
+
+&lt;p&gt;$1260 | GPU | 6 x &lt;a href=&quot;http://www.amazon.com/gp/product/B00GWV0ZD8/?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;linkCode=ur2&amp;amp;tag=shnomo-20&quot;&gt;ASUS Raedon R9 270&lt;/a&gt;&lt;br&gt;
+$135 | Motherboard | &lt;a href=&quot;http://www.amazon.com/gp/product/B0055QYKQO/?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;linkCode=ur2&amp;amp;tag=shnomo-20&quot;&gt;Gigabyte GA-990FXA-UD3&lt;/a&gt;&lt;br&gt;
+$320 | PSU | 2x &lt;a href=&quot;http://www.amazon.com/gp/product/B00A0HZMEM/?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;linkCode=ur2&amp;amp;tag=shnomo-20&quot;&gt;Corsair AX 760W&lt;/a&gt;&lt;br&gt;
+$44 | CPU | &lt;a href=&quot;http://www.amazon.com/gp/product/B0040BPHJO/?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;linkCode=ur2&amp;amp;tag=shnomo-20&quot;&gt;AMD Sempron 145 2.8GHZ&lt;/a&gt;&lt;br&gt;
+$45 | RAM | &lt;a href=&quot;http://www.amazon.com/gp/product/B002RPCLH6/?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;linkCode=ur2&amp;amp;tag=shnomo-20&quot;&gt;G.Skill Ripjaws Series 2 x 2GB DDR3&lt;/a&gt;&lt;br&gt;
+$10 | HD | &lt;a href=&quot;http://www.amazon.com/gp/product/B005FYNSZA/?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;linkCode=ur2&amp;amp;tag=shnomo-20&quot;&gt;SanDisk Cruzer 16GB USB Thumb Drive&lt;/a&gt;&lt;br&gt;
+$120 | Risers | 6x &lt;a href=&quot;http://www.magicgrowing.com/bitcoin-mining/pci-e-powered-riser-card-100cm-40-usb-cable&quot;&gt;USB Risers&lt;/a&gt;&lt;br&gt;
+Free | OS | &lt;a href=&quot;https://litecointalk.org/index.php?topic=2924.0&quot;&gt;BAMT (Linux)&lt;/a&gt;  &lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Bitcoin Mining Cheat Sheet</title>
+    <link href="http://www.cryptominersclub.com/bitcoin-mining-cheat-sheet/index.html"/>
+    <updated>2014-02-11T21:30:00-08:00</updated>
+    <id>http://www.cryptominersclub.com/bitcoin-mining-cheat-sheet/bitcoin-mining-cheat-sheet</id>
+    <content type="html">&lt;p&gt;Curious about Bitcoin mining but not sure where to start? Here&amp;#39;s a quick cheat sheet of resources to get you started.&lt;/p&gt;
+
+&lt;h3&gt;The Bitcoin Market&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.coinbase.com/?r=5297831b5446868b09000036&quot;&gt;Coinbase&lt;/a&gt; is a Bitcoin exchange located in San Francisco. They are one of the most well funded Bitcoin companies in the world and provide a high &lt;a href=&quot;https://coinbase.com/security&quot;&gt;level of security&lt;/a&gt; around their services.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.cryptsy.com/users/register?refid=105115&quot;&gt;Cryptsy&lt;/a&gt; is a Bitcoin exchange serving a huge number of coins. Cryptsy provides a crucial link in facilitating the conversion of alt-coins into Bitcoin.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.coinwarz.com/Bitcoin&quot;&gt;Coinwarz&lt;/a&gt; lists the profitability of various digital currencies. The calculations are done in real-time and are prone to wild swings so it&amp;#39;s not the most reliable data, but it can serve as a good overview of the Bitcoin market.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://bitcoinity.org/markets&quot;&gt;Bitcoinity&lt;/a&gt; provides simple Bitcoin value charts for various exchanges. This site displays the current Bitcoin value in your browser tab so it remains useful even when not in focus.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://bitinfocharts.com&quot;&gt;Bitinfocharts&lt;/a&gt; shows detailed information on the largest Bitcoin markets. It&amp;#39;s amazing to see how much larger Bitcoin is relative to everything else. The parabolic difficulty curve is even more impressive ;)&lt;/p&gt;
+
+&lt;h3&gt;Bitcoin Mining&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://litecoin.info/Mining_hardware_comparison&quot;&gt;GPU Mining Hardware Comparison&lt;/a&gt;: This is a reference list of results with various GPU and CPU hardware along with the config settings. You&amp;#39;ll want a card with a high hash rate (kH/s) to power (W) ratio. The card with the best ratio available, the AMD 7950, is discontinued and close to impossible to find at a good price. The r9 280x and r9 290 are good alternatives that are much easier to find.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.cryptobadger.com/build-your-own-litecoin-mining-rig&quot;&gt;Guide to Building Your Own Litecoin Mining Rig&lt;/a&gt;: This guide was the template from which I built my rig. The specific set of parts he lists is nearly impossible to find, but this will give you an idea of what to look for.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bitcointalk.org/index.php?topic=28402.0&quot;&gt;Mining Software: CGMiner 3.7.2&lt;/a&gt;: This is the reference thread for CGMiner, the software that will run your miner.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://middlecoin2.s3-website-us-west-2.amazonaws.com&quot;&gt;MiddleCoin Mining Pool&lt;/a&gt;: This is my go to pool. Middlecoin is an auto-switching pool that seeks the most profitable alt coins to maximize the return on your hashing power. It also auto-exchanges mined coins and pays out in Bitcoin (BTC). Better still, joining the pool is as simple as pointing your miner at it using a Bitcoin wallet address.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Calculating Bitcoin Mining ROI and Profitability</title>
+    <link href="http://www.cryptominersclub.com/calculating-bitcoin-mining-roi-and-profitability/index.html"/>
+    <updated>2014-02-09T21:30:00-08:00</updated>
+    <id>http://www.cryptominersclub.com/calculating-bitcoin-mining-roi-and-profitability/calculating-bitcoin-mining-roi-and-profitability</id>
+    <content type="html">&lt;p&gt;I have a simple way of calculating the time to ROI and profitability on my mining rigs. The formula is as follows.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://bitcoinity.org/markets&quot;&gt;Look up the current value of a Bitcoin&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Visit a auto-switching mining pool, my current favorite is &lt;a href=&quot;http://www.middlecoin.com&quot;&gt;Middlecoin&lt;/a&gt;, and get the current BTC/Mhs/day rate.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Calculate the cost to build a rig that achieves about 1 Mhs/day. A good starting point is 3 r9 270xs, 2 r9 280xs, or 2 r9 290s. A full list of cards and hash rates can be found &lt;a href=&quot;https://litecoin.info/Mining_hardware_comparison&quot;&gt;here&lt;/a&gt;. Then, start pricing parts. &lt;a href=&quot;http://www.newegg.com&quot;&gt;NewEgg&lt;/a&gt; is a good place to start. You&amp;#39;ll need a motherboard, cpu, ram, power supply, usb drive, and one or more video cards. &lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Now simply calculate ($Bitcoin&lt;em&gt;Value x $Bitcoin&lt;/em&gt;per&lt;em&gt;Mhs) to get your estimated daily payout and $Rig&lt;/em&gt;cost / ($Bitcoin&lt;em&gt;value x $Bitcoin&lt;/em&gt;per_Mhs) to get your days till break even on your rig cost.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This is a simple estimation which does not take into account volatility in Bitcoin value or an increase in mining difficulty, but I believe adding a projection of either is adding speculation upon speculation. The crypto currency market is not for the faint of heart, but at least this should give you a baseline expectation with which to plan and track your progress.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Bitcoin Mining Update: January 2014</title>
+    <link href="http://www.cryptominersclub.com/bitcoin-mining-update-january-2014/index.html"/>
+    <updated>2014-02-02T21:30:00-08:00</updated>
+    <id>http://www.cryptominersclub.com/bitcoin-mining-update-january-2014/bitcoin-mining-update-january-2014</id>
+    <content type="html">&lt;p&gt;It&amp;#39;s been a bit over a month since I started an experiment in mining Cryptocurrencies. One of the big questions I had going into it was whether or not mining could actually be profitable. In the time that I have been mining, daily payouts have been about 0.012 BTC/Mhs/day. That works out to about $10/day. In my &lt;a href=&quot;/2014/01/02/a-small-mining-adventure-the-beginning&quot;&gt;previous post&lt;/a&gt; I mentioned a 1.2Mh/s rig cost $1260 to put together so, at the current average rate, my projection of a 4 month payback schedule was accurate.&lt;/p&gt;
+
+&lt;p&gt;Below is a chart of daily earnings since the beginning of the experiment.&lt;/p&gt;
+
+&lt;div class=&quot;panel panel-default&quot;&gt;
+  &lt;div class=&quot;panel-heading panel-title&quot;&gt;January Mining Results&lt;/div&gt;
+  &lt;div class=&quot;panel-body text-center&quot;&gt;
+    &lt;img src=&quot;/images/january-update.png&quot; alt=&quot;Janury Update&quot; class=&quot;img-responsive&quot;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;You&amp;#39;ll notice a pretty good rate of growth. That&amp;#39;s because I not only finished the build of my first rig, I decided to add a second rig and effectively double my hash rate. There was an additional spike in the last few days due to growth in Dogecoin which increased payouts to 0.017 BTC/Mh/day. I don&amp;#39;t expect this to last long term, but it&amp;#39;s interesting because it&amp;#39;s a common assumption that profitability should fall over time due to increased difficulty. At least over the short term, this is clearly not correct.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>A small mining adventure: The beginning</title>
+    <link href="http://www.cryptominersclub.com/a-small-mining-adventure-the-beginning/index.html"/>
+    <updated>2014-01-02T21:30:00-08:00</updated>
+    <id>http://www.cryptominersclub.com/a-small-mining-adventure-the-beginning/a-small-mining-adventure-the-beginning</id>
+    <content type="html">&lt;p&gt;I&amp;#39;ve been intrigued by the buzz surrounding Bitcoin since it spiked in value in early 2013 due to the near collapse of the Cyprus economy. A subsequent larger spike caused by increased interest in China finally caused me to go forward with building out a Litecoin mining rig and trying my luck as a small time miner.&lt;/p&gt;
+
+&lt;p&gt;The decision to mine Litecoin rather than Bitcoin was based simply out of accessibility. Bitcoin mining is extremely competitive and expensive nowadays. It also relies on specialized hardware often times from unreliable sources. Litecoin can still be mined effectively on standard computing hardware and exchanges such as &lt;a href=&quot;https://www.cryptsy.com&quot;&gt;Cryptsy&lt;/a&gt; allow one to exchange Litecoin for Bitcoin.&lt;/p&gt;
+
+&lt;p&gt;I set out my plan with two main goals. Satisfying my curiosity around mining and breaking even financially.&lt;/p&gt;
+
+&lt;p&gt;With the help of &lt;a href=&quot;http://www.coinminingrigs.com&quot;&gt;CoinMiningRigs.com&lt;/a&gt;, &lt;a href=&quot;http://www.cryptobadger.com/build-your-own-litecoin-mining-rig&quot;&gt;CryptoBadger&lt;/a&gt;, and the advice of a coworker I pieced together the following components to build a computer for the first time since high school.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;#39;s what I ordered. &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;GPUS - (2) MSI R7950 Twin Frozr&lt;/li&gt;
+&lt;li&gt;Power Supply - Cooler Master Silent Pro Gold - 1200W&lt;/li&gt;
+&lt;li&gt;RAM - G.SKILL Ripjaws X Series 4GB 240-Pin DDR3 SDRAM &lt;/li&gt;
+&lt;li&gt;Motherboard - ASRock 990FX Extreme3 AM3+&lt;/li&gt;
+&lt;li&gt;CPU - AMD Sempron 145 Sargas 2.8GHz Socket AM3 45W Single-Core Desktop Processor&lt;/li&gt;
+&lt;li&gt;Hard Drive - SanDisk ReadyCache 32 GB SSD&lt;/li&gt;
+&lt;li&gt;&amp;quot;Case&amp;quot; - White Plastic Storage Crate&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Scoping out components is an interesting challenge starting with simply finding a place that had the parts required! I just happened on a couple of 7950 GPUs which are highly regarded for their hash rate/power ratio. I should be able to get 1200kH/s at 600W.&lt;/p&gt;
+
+&lt;p&gt;The motherboard and power supply were both chosen with expansion in mind. Once the rig is up and running I should be able to add two more GPUs for a total of 2400kH/s.&lt;/p&gt;
+
+&lt;p&gt;The CPU, memory, storage, and case were all chosen to be inexpensive as they have little affect on hash rate.&lt;/p&gt;
+
+&lt;p&gt;The total cost for this build was $1260 and, at the time of purchase was expected to break even in about 4 months. I can lower the break even point to 3 months, and double my hash rate, if I invest another $800 to add 2 GPUs to the rig. Apparently you really do need to spend money to earn money.&lt;/p&gt;
+
+&lt;p&gt;Getting the rig up and running was a lot more difficult than I expected. Through a few frustrating days of trial and error I figured out one of the GPUs I received was bad and needed to be set for repair. This unexpected set back would cut my hash rate in half and push my time to break even out to nine months!&lt;/p&gt;
+
+&lt;p&gt;So I did what any rational gambler would do and I bought a 3rd GPU so I&amp;#39;d have at least two running full time while the third was sent away for repairs. &lt;/p&gt;
+
+&lt;p&gt;Thankfully the additional GPU plugged in and powered up without incident and I&amp;#39;ve been happily mining for about a week an a half. Simply getting the rig sourced, built, and running took longer than expected but once I started mining I discovered Litecoin wasn&amp;#39;t the most profitable coin to mine. Lesson one was complete, but the education was just starting.&lt;/p&gt;
+</content>
+  </entry>
+  
+</feed>
