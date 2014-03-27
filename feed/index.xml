@@ -4,7 +4,7 @@
   <title>Crypto Miners Club</title>
   <link type="application/atom+xml" href="http://www.cryptominersclub.com/feed" rel="self"/>
   <link href="http://www.cryptominersclub.com" rel="alternate"/>
-  <updated>2014-03-26T11:13:24-07:00</updated>
+  <updated>2014-03-26T18:19:42-07:00</updated>
   <id>http://www.cryptominersclub.com</id>
   <author>
     <name>Gerlando Piro</name>
@@ -68,6 +68,29 @@ Right after this article went live, ZoomHash announced a 20 pack of Gridseed min
     <updated>2014-03-25T00:00:00-07:00</updated>
     <id>http://www.cryptominersclub.com/whos-blockchain/whos-blockchain</id>
     <content type="html">&lt;p&gt;We&amp;#39;re going to see a lot more growing pains with the Bitcoin protocol as more services extend blockchain usage in creative ways.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>How to Lose Money Mining Bitcoin, Litecoin, and Dogecoin : Step 1</title>
+    <link href="http://www.cryptominersclub.com/how-to-lose-money-mining-step-1/index.html"/>
+    <updated>2014-03-25T00:00:00-07:00</updated>
+    <id>http://www.cryptominersclub.com/how-to-lose-money-mining-step-1/how-to-lose-money-mining-step-1</id>
+    <content type="html">&lt;h2&gt;Preorder ASIC Hardware&lt;/h2&gt;
+
+&lt;p&gt;The mining community has a bad habit of purchasing hardware that does not yet exist. The most recent example is the &lt;a href=&quot;https://www.kncminer.com/products/titan&quot;&gt;KNC Titan&lt;/a&gt;, a $10k scrypt miner with no set release date that booked &lt;a href=&quot;http://techcrunch.com/2014/03/20/kncminer-sells-2-million-worth-of-scrypt-mining-machines-in-four-hours&quot;&gt;$2M in non-refundable preorders within &lt;strong&gt;4 hours&lt;/strong&gt;&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;This practice is bad for miners for a number of reasons including:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;A History of Delays&lt;/strong&gt;&lt;/em&gt;: Since the start of ASIC mining there has yet to be a product delivered on time. Since time is money in the mining world, any delay &lt;em&gt;reduces your chance of break even&lt;/em&gt; on your hardware. Butterfly Labs (&lt;a href=&quot;http://www.urbandictionary.com/define.php?term=bfl&quot;&gt;BFL&lt;/a&gt;) is notorious for delaying products until they have no value. Alpha Technologies have been in development since &lt;a href=&quot;https://alpha-t.net/news/development-update-29052013&quot;&gt;May 2013&lt;/a&gt; and have yet to show a product. &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Providing Free Loans&lt;/strong&gt;: A preorder is little more than a free loan for the manufacturer with no payback time frame. You are effectively trading cash for the prospect of mining in the future.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Funding Your Competition&lt;/strong&gt;&lt;/em&gt;: No one gets hardware sooner or cheaper than the manufacturer. This created a strong financial incentive to delay shipping products to customers in order to mine with their hardware. This practice can be easily argued for by manufacturers as burn-in or quality testing.&lt;/p&gt;
+
+&lt;p&gt;While it is clear that preorders have been bad for customers, the practice continues because it is lucerative for the manufacturers involved. As such, we cannot expect the practice to end any time soon. But one could hope!&lt;/p&gt;
 </content>
   </entry>
   
