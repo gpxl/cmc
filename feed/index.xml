@@ -4,7 +4,7 @@
   <title>Crypto Miners Club</title>
   <link type="application/atom+xml" href="http://www.cryptominersclub.com/feed" rel="self"/>
   <link href="http://www.cryptominersclub.com" rel="alternate"/>
-  <updated>2014-03-26T22:28:50-07:00</updated>
+  <updated>2014-03-27T09:47:55-07:00</updated>
   <id>http://www.cryptominersclub.com</id>
   <author>
     <name>Gerlando Piro</name>
@@ -29,6 +29,59 @@
 
 &lt;p&gt;-Gerlando.&lt;br&gt;
 &lt;a href=&quot;http://www.twitter.com/gpxl&quot;&gt;@gpxl&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Market Conditions : March 27</title>
+    <link href="http://www.cryptominersclub.com/market-conditions-march-27-1013/index.html"/>
+    <updated>2014-03-27T09:17:00-07:00</updated>
+    <id>http://www.cryptominersclub.com/market-conditions-march-27-1013/market-conditions-march-27-1013</id>
+    <content type="html">&lt;p&gt;
+  Market conditions remained rough for miners throughout March and there doesn&#39;t appear to be an signs of that letting up.
+&lt;/p&gt;
+
+&lt;div class=&quot;panel panel-danger&quot;&gt;
+  &lt;div class=&quot;panel-heading&quot;&gt;
+    &lt;h3 class=&quot;panel-title&quot;&gt;GPU Mining : &lt;span class=&quot;glyphicon glyphicon-chevron-down&quot;&gt;&lt;/span&gt; Sell&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;panel-body&quot;&gt;
+    &lt;p&gt;
+      GPU mining is expected to continue it&#39;s decline in profitability. Non-scrypt coins might provide an extension on GPU minings usefulness. But it is advisable to sell off equipment as the opportunity arises.
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;panel panel-warning&quot;&gt;
+  &lt;div class=&quot;panel-heading&quot;&gt;
+    &lt;h3 class=&quot;panel-title&quot;&gt;ASIC Mining (Scrypt): &lt;span class=&quot;glyphicon glyphicon-minus&quot;&gt;&lt;/span&gt; Hold&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;panel-body&quot;&gt;
+    &lt;p&gt;
+      While &lt;a href=&quot;/gridseed-prices-are-dropping&quot;&gt;Gridseed miners have dropped in price&lt;/a&gt; recently, market conditions do not support break-even scenarios at current market prices. The introduction of much larger ASIC scrypt miners, such as the &lt;a href=&quot;/knc-titan-hashrate-increase&quot;&gt;250 MH/s KNC Titan&lt;/a&gt;, also threaten the ROI on Gridseed devices.
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;panel panel-danger&quot;&gt;
+  &lt;div class=&quot;panel-heading&quot;&gt;
+    &lt;h3 class=&quot;panel-title&quot;&gt;Bitcoin Holdings: &lt;span class=&quot;glyphicon glyphicon-chevron-down&quot;&gt;&lt;/span&gt; Sell&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;panel-body&quot;&gt;
+    &lt;p&gt;
+      The long term and short term price trends on Bitcoin continue to be negative. It is advisable for miners to sell off their mining proceeds to fiat until the trend changes.
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>KNC Titan projected hashrate increases 150%.</title>
+    <link href="http://www.cryptominersclub.com/knc-titan-hashrate-increase/index.html"/>
+    <updated>2014-03-27T09:00:00-07:00</updated>
+    <id>http://www.cryptominersclub.com/knc-titan-hashrate-increase/knc-titan-hashrate-increase</id>
+    <content type="html">&lt;p&gt;KNC is now promising a 250 MH/s hash rate with a 800-1000W PSU requirement. Still no release date in sight.&lt;/p&gt;
 </content>
   </entry>
   
