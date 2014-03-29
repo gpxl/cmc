@@ -4,7 +4,7 @@
   <title>Crypto Miners Club</title>
   <link type="application/atom+xml" href="http://www.cryptominersclub.com/feed" rel="self"/>
   <link href="http://www.cryptominersclub.com" rel="alternate"/>
-  <updated>2014-03-27T09:47:55-07:00</updated>
+  <updated>2014-03-29T11:49:47-07:00</updated>
   <id>http://www.cryptominersclub.com</id>
   <author>
     <name>Gerlando Piro</name>
@@ -29,6 +29,21 @@
 
 &lt;p&gt;-Gerlando.&lt;br&gt;
 &lt;a href=&quot;http://www.twitter.com/gpxl&quot;&gt;@gpxl&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Good luck with that one</title>
+    <link href="http://www.cryptominersclub.com/good-luck-with-that-one/index.html"/>
+    <updated>2014-03-29T09:17:00-07:00</updated>
+    <id>http://www.cryptominersclub.com/good-luck-with-that-one/good-luck-with-that-one</id>
+    <content type="html">&lt;p&gt;A court in Texas has ordered Hashfast&amp;#39;s Bitcoin wallets frozen.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The granting of a court order to freeze bitcoin assets of mining hardware companies who fail to deliver on time could have ramifications in an industry beset by delays as small and inexperienced participants grapple with issues related to cutting edge hardware design and production.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;While I&amp;#39;m not sure how easily enforced this judgement is, hopefully it points to a cleaning up of all the &lt;a href=&quot;http://cryptominersclub.com/how-to-lose-money-mining-step-1&quot;&gt;pre-order B.S.&lt;/a&gt; that&amp;#39;s currently standard practice for ASIC manufacturers.&lt;/p&gt;
 </content>
   </entry>
   
