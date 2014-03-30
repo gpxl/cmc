@@ -4,7 +4,7 @@
   <title>Crypto Miners Club</title>
   <link type="application/atom+xml" href="http://www.cryptominersclub.com/feed" rel="self"/>
   <link href="http://www.cryptominersclub.com" rel="alternate"/>
-  <updated>2014-03-29T11:49:47-07:00</updated>
+  <updated>2014-03-29T17:52:42-07:00</updated>
   <id>http://www.cryptominersclub.com</id>
   <author>
     <name>Gerlando Piro</name>
@@ -29,6 +29,35 @@
 
 &lt;p&gt;-Gerlando.&lt;br&gt;
 &lt;a href=&quot;http://www.twitter.com/gpxl&quot;&gt;@gpxl&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>How to Lose Money With Bitcoin, Litecoin, and Dogecoin : Step 2</title>
+    <link href="http://www.cryptominersclub.com/how-to-lose-money-with-bitcoin-step-2/index.html"/>
+    <updated>2014-03-29T18:00:00-07:00</updated>
+    <id>http://www.cryptominersclub.com/how-to-lose-money-with-bitcoin-step-2/how-to-lose-money-with-bitcoin-step-2</id>
+    <content type="html">&lt;h2&gt;Fight the Trend&lt;/h2&gt;
+
+&lt;p&gt;If you frequent &lt;a href=&quot;https://bitcointalk.org/&quot;&gt;BitcoinTalk&lt;/a&gt; or &lt;a href=&quot;http://www.reddit.com/r/bitcoin&quot;&gt;/r/bitcoin&lt;/a&gt; you will inevitably come across some &lt;strong&gt;really bad trading advice&lt;/strong&gt; asumming the current price of Bitcoin is a value because it is cheaper than it previously was. &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I bought at 800$ in the magnitude of my monthly salary and I am happy with it. I am waiting for it to drop below 400$ because I a planning to double my exposure.&lt;br&gt;
+&lt;a href=&quot;http://www.reddit.com/r/Bitcoin/comments/21nz5r/how_many_of_you_bought_for_800_and_do_you_still/cgex7o1&quot;&gt;franki1234&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Here is someone whos investment lost almost 40% and is looking to throw good money after bad simply because of a lower buy in price. Is $400 a good buy in price? If we look at the chart we notice a strong downward trend in BTC price since peaking in November of 2013. There are two lines of support around $800 and $525, but &lt;strong&gt;both&lt;/strong&gt; of those lines have been breached. A $400 buy feels comfortably round to a novice trader, but there is nothing in the charts to suggest any support at $400.&lt;/p&gt;
+
+&lt;div class=&quot;panel panel-default&quot;&gt;
+  &lt;div class=&quot;panel-body text-center&quot;&gt;
+    &lt;img src=&quot;/images/downward-trend.jpg&quot; alt=&quot;Downward&quot; class=&quot;img-responsive&quot;&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;panel-footer&quot;&gt;&lt;small&gt;Source: &lt;a href=&quot;http://bitcoinity.org/markets&quot;&gt;Bitcoinity&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;There&amp;#39;s no telling where we go from here, but the trend continues to be negative and as noted in the latest &lt;a href=&quot;/market-conditions-march-27-1013/&quot;&gt;Market Conditions update&lt;/a&gt;, my suggestion is to sell BTC holdings.&lt;/p&gt;
+
+&lt;p&gt;Once you&amp;#39;re done with your sell orders, head over to Investopedia and learn some &lt;a href=&quot;http://www.investopedia.com/university/beginner-trading-fundamentals&quot;&gt;trading fundamentals&lt;/a&gt; and be a better prepared trader.&lt;/p&gt;
 </content>
   </entry>
   
@@ -114,7 +143,7 @@
   </entry>
   
   <entry>
-    <title>How to Lose Money Mining Bitcoin, Litecoin, and Dogecoin : Step 1</title>
+    <title>How to Lose Money With Bitcoin, Litecoin, and Dogecoin : Step 1</title>
     <link href="http://www.cryptominersclub.com/how-to-lose-money-mining-step-1/index.html"/>
     <updated>2014-03-26T18:00:00-07:00</updated>
     <id>http://www.cryptominersclub.com/how-to-lose-money-mining-step-1/how-to-lose-money-mining-step-1</id>
