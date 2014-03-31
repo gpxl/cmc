@@ -4,7 +4,7 @@
   <title>Crypto Miners Club</title>
   <link type="application/atom+xml" href="http://www.cryptominersclub.com/feed" rel="self"/>
   <link href="http://www.cryptominersclub.com" rel="alternate"/>
-  <updated>2014-03-29T17:52:42-07:00</updated>
+  <updated>2014-03-30T21:09:15-07:00</updated>
   <id>http://www.cryptominersclub.com</id>
   <author>
     <name>Gerlando Piro</name>
@@ -29,6 +29,27 @@
 
 &lt;p&gt;-Gerlando.&lt;br&gt;
 &lt;a href=&quot;http://www.twitter.com/gpxl&quot;&gt;@gpxl&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>US stock markets are rigged.</title>
+    <link href="http://www.cryptominersclub.com/us-stock-markets-are-rigged/index.html"/>
+    <updated>2014-03-30T00:00:00-07:00</updated>
+    <id>http://www.cryptominersclub.com/us-stock-markets-are-rigged/us-stock-markets-are-rigged</id>
+    <content type="html">&lt;p&gt;Michael Lewis on high frequency trading, a legal practice carried out by many banks and proprietary trading firms.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;They are able to identify your desire to buy shares in Microsoft and buy them in front of you and sell them back to you at a higher price&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A new trading platform, IEX, seeks even the playing ground for everyday traders&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;We are selling trust, we are selling transparency, and to think that trust is actually a differentiator in a service business, is actually a crazy thought, right?&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Can anyone think of another transparent financial market redistributing power back to the people?&lt;/p&gt;
 </content>
   </entry>
   
@@ -392,47 +413,6 @@ Free | OS | &lt;a href=&quot;https://litecointalk.org/index.php?topic=2924.0&quo
 &lt;/div&gt;
 
 &lt;p&gt;You&amp;#39;ll notice a pretty good rate of growth. That&amp;#39;s because I not only finished the build of my first rig, I decided to add a second rig and effectively double my hash rate. There was an additional spike in the last few days due to growth in Dogecoin which increased payouts to 0.017 BTC/Mh/day. I don&amp;#39;t expect this to last long term, but it&amp;#39;s interesting because it&amp;#39;s a common assumption that profitability should fall over time due to increased difficulty. At least over the short term, this is clearly not correct.&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>A small mining adventure: The beginning</title>
-    <link href="http://www.cryptominersclub.com/a-small-mining-adventure-the-beginning/index.html"/>
-    <updated>2014-01-02T21:30:00-08:00</updated>
-    <id>http://www.cryptominersclub.com/a-small-mining-adventure-the-beginning/a-small-mining-adventure-the-beginning</id>
-    <content type="html">&lt;p&gt;I&amp;#39;ve been intrigued by the buzz surrounding Bitcoin since it spiked in value in early 2013 due to the near collapse of the Cyprus economy. A subsequent larger spike caused by increased interest in China finally caused me to go forward with building out a Litecoin mining rig and trying my luck as a small time miner.&lt;/p&gt;
-
-&lt;p&gt;The decision to mine Litecoin rather than Bitcoin was based simply out of accessibility. Bitcoin mining is extremely competitive and expensive nowadays. It also relies on specialized hardware often times from unreliable sources. Litecoin can still be mined effectively on standard computing hardware and exchanges such as &lt;a href=&quot;https://www.cryptsy.com&quot;&gt;Cryptsy&lt;/a&gt; allow one to exchange Litecoin for Bitcoin.&lt;/p&gt;
-
-&lt;p&gt;I set out my plan with two main goals. Satisfying my curiosity around mining and breaking even financially.&lt;/p&gt;
-
-&lt;p&gt;With the help of &lt;a href=&quot;http://www.coinminingrigs.com&quot;&gt;CoinMiningRigs.com&lt;/a&gt;, &lt;a href=&quot;http://www.cryptobadger.com/build-your-own-litecoin-mining-rig&quot;&gt;CryptoBadger&lt;/a&gt;, and the advice of a coworker I pieced together the following components to build a computer for the first time since high school.&lt;/p&gt;
-
-&lt;p&gt;Here&amp;#39;s what I ordered. &lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;GPUS - (2) MSI R7950 Twin Frozr&lt;/li&gt;
-&lt;li&gt;Power Supply - Cooler Master Silent Pro Gold - 1200W&lt;/li&gt;
-&lt;li&gt;RAM - G.SKILL Ripjaws X Series 4GB 240-Pin DDR3 SDRAM &lt;/li&gt;
-&lt;li&gt;Motherboard - ASRock 990FX Extreme3 AM3+&lt;/li&gt;
-&lt;li&gt;CPU - AMD Sempron 145 Sargas 2.8GHz Socket AM3 45W Single-Core Desktop Processor&lt;/li&gt;
-&lt;li&gt;Hard Drive - SanDisk ReadyCache 32 GB SSD&lt;/li&gt;
-&lt;li&gt;&amp;quot;Case&amp;quot; - White Plastic Storage Crate&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Scoping out components is an interesting challenge starting with simply finding a place that had the parts required! I just happened on a couple of 7950 GPUs which are highly regarded for their hash rate/power ratio. I should be able to get 1200kH/s at 600W.&lt;/p&gt;
-
-&lt;p&gt;The motherboard and power supply were both chosen with expansion in mind. Once the rig is up and running I should be able to add two more GPUs for a total of 2400kH/s.&lt;/p&gt;
-
-&lt;p&gt;The CPU, memory, storage, and case were all chosen to be inexpensive as they have little affect on hash rate.&lt;/p&gt;
-
-&lt;p&gt;The total cost for this build was $1260 and, at the time of purchase was expected to break even in about 4 months. I can lower the break even point to 3 months, and double my hash rate, if I invest another $800 to add 2 GPUs to the rig. Apparently you really do need to spend money to earn money.&lt;/p&gt;
-
-&lt;p&gt;Getting the rig up and running was a lot more difficult than I expected. Through a few frustrating days of trial and error I figured out one of the GPUs I received was bad and needed to be set for repair. This unexpected set back would cut my hash rate in half and push my time to break even out to nine months!&lt;/p&gt;
-
-&lt;p&gt;So I did what any rational gambler would do and I bought a 3rd GPU so I&amp;#39;d have at least two running full time while the third was sent away for repairs. &lt;/p&gt;
-
-&lt;p&gt;Thankfully the additional GPU plugged in and powered up without incident and I&amp;#39;ve been happily mining for about a week an a half. Simply getting the rig sourced, built, and running took longer than expected but once I started mining I discovered Litecoin wasn&amp;#39;t the most profitable coin to mine. Lesson one was complete, but the education was just starting.&lt;/p&gt;
 </content>
   </entry>
   
