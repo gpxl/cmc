@@ -4,7 +4,7 @@
   <title>Crypto Miners Club</title>
   <link type="application/atom+xml" href="http://www.cryptominersclub.com/feed" rel="self"/>
   <link href="http://www.cryptominersclub.com" rel="alternate"/>
-  <updated>2014-03-31T17:29:35-07:00</updated>
+  <updated>2014-03-31T17:44:01-07:00</updated>
   <id>http://www.cryptominersclub.com</id>
   <author>
     <name>Gerlando Piro</name>
@@ -29,6 +29,19 @@
 
 &lt;p&gt;-Gerlando.&lt;br&gt;
 &lt;a href=&quot;http://www.twitter.com/gpxl&quot;&gt;@gpxl&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Litecoin team's view on ASICs</title>
+    <link href="http://www.cryptominersclub.com/litecoin-dev-team-on-asics/index.html"/>
+    <updated>2014-03-30T17:40:00-07:00</updated>
+    <id>http://www.cryptominersclub.com/litecoin-dev-team-on-asics/litecoin-dev-team-on-asics</id>
+    <content type="html">&lt;p&gt;In short, there is no way they are going to change the proof of work algorithm due to ASICs for fear of damaging the momentum Litecoin has.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We, the Litecoin developers, do not believe that we can pull this off without hurting or even destroying the coin. So to the developer(s) that is trying to pull this off, you will only manage to hurt Litecoin and cause chaos for everyone involved. &lt;/p&gt;
+&lt;/blockquote&gt;
 </content>
   </entry>
   
@@ -390,24 +403,6 @@ Free | OS | &lt;a href=&quot;https://litecointalk.org/index.php?topic=2924.0&quo
 &lt;p&gt;&lt;a href=&quot;https://bitcointalk.org/index.php?topic=28402.0&quot;&gt;Mining Software: CGMiner 3.7.2&lt;/a&gt;: This is the reference thread for CGMiner, the software that will run your miner.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://middlecoin2.s3-website-us-west-2.amazonaws.com&quot;&gt;MiddleCoin Mining Pool&lt;/a&gt;: This is my go to pool. Middlecoin is an auto-switching pool that seeks the most profitable alt coins to maximize the return on your hashing power. It also auto-exchanges mined coins and pays out in Bitcoin (BTC). Better still, joining the pool is as simple as pointing your miner at it using a Bitcoin wallet address.&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>Calculating Bitcoin Mining ROI and Profitability</title>
-    <link href="http://www.cryptominersclub.com/calculating-bitcoin-mining-roi-and-profitability/index.html"/>
-    <updated>2014-02-09T21:30:00-08:00</updated>
-    <id>http://www.cryptominersclub.com/calculating-bitcoin-mining-roi-and-profitability/calculating-bitcoin-mining-roi-and-profitability</id>
-    <content type="html">&lt;p&gt;I have a simple way of calculating the time to ROI and profitability on my mining rigs. The formula is as follows.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://bitcoinity.org/markets&quot;&gt;Look up the current value of a Bitcoin&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Visit a auto-switching mining pool, my current favorite is &lt;a href=&quot;http://www.middlecoin.com&quot;&gt;Middlecoin&lt;/a&gt;, and get the current BTC/Mhs/day rate.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Calculate the cost to build a rig that achieves about 1 Mhs/day. A good starting point is 3 r9 270xs, 2 r9 280xs, or 2 r9 290s. A full list of cards and hash rates can be found &lt;a href=&quot;https://litecoin.info/Mining_hardware_comparison&quot;&gt;here&lt;/a&gt;. Then, start pricing parts. &lt;a href=&quot;http://www.newegg.com&quot;&gt;NewEgg&lt;/a&gt; is a good place to start. You&amp;#39;ll need a motherboard, cpu, ram, power supply, usb drive, and one or more video cards. &lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Now simply calculate ($Bitcoin&lt;em&gt;Value x $Bitcoin&lt;/em&gt;per&lt;em&gt;Mhs) to get your estimated daily payout and $Rig&lt;/em&gt;cost / ($Bitcoin&lt;em&gt;value x $Bitcoin&lt;/em&gt;per_Mhs) to get your days till break even on your rig cost.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;This is a simple estimation which does not take into account volatility in Bitcoin value or an increase in mining difficulty, but I believe adding a projection of either is adding speculation upon speculation. The crypto currency market is not for the faint of heart, but at least this should give you a baseline expectation with which to plan and track your progress.&lt;/p&gt;
 </content>
   </entry>
   
