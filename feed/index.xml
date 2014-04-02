@@ -4,13 +4,26 @@
   <title>Crypto Miners Club</title>
   <link type="application/atom+xml" href="http://www.cryptominersclub.com/feed" rel="self"/>
   <link href="http://www.cryptominersclub.com" rel="alternate"/>
-  <updated>2014-03-31T22:52:50-07:00</updated>
+  <updated>2014-04-01T23:40:11-07:00</updated>
   <id>http://www.cryptominersclub.com</id>
   <author>
     <name>Gerlando Piro</name>
   </author>
   <rights>Copyright (c) 2014, Gerlando Piro; all rights reserved.</rights>
 
+  
+  <entry>
+    <title>Judge orders Mt Gox CEO to US for questioning</title>
+    <link href="http://www.cryptominersclub.com/mt-gox-ceo-ordered-to-us-for-questioning/index.html"/>
+    <updated>2014-04-01T23:36:00-07:00</updated>
+    <id>http://www.cryptominersclub.com/mt-gox-ceo-ordered-to-us-for-questioning/mt-gox-ceo-ordered-to-us-for-questioning</id>
+    <content type="html">&lt;p&gt;A lot of people would like to see someone held accountable for the huge losses at Mt Gox but I suspect Mark Karpeles does everything in his power to avoid entering the US.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;If he avails himself of this court, my God, he is going to get himself over here&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Welcome</title>
@@ -377,35 +390,6 @@ Right after this article went live, ZoomHash announced a 20 pack of Gridseed min
 &lt;p&gt;Adding more Gridseeds gets slightly more complicated in that you will need to add a USB hub since each device requires a port. Each device requires their own power source as well. Using a simple power brick doesn&amp;#39;t scale very well and using a larger power supply requires hacking together your own cables. However, I have no doubt that within the next 30 days a number of out of the box solutions will be on the market.&lt;/p&gt;
 
 &lt;p&gt;Overall my experience with Gridseed Scrypt ASICs has been a positive one. So much so that I&amp;#39;ve started downsizing my GPU mining in favor of them.&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>Crypto Mining Update: February 2014</title>
-    <link href="http://www.cryptominersclub.com/bitcoin-mining-update-february-2014/index.html"/>
-    <updated>2014-03-02T21:30:00-08:00</updated>
-    <id>http://www.cryptominersclub.com/bitcoin-mining-update-february-2014/bitcoin-mining-update-february-2014</id>
-    <content type="html">&lt;p&gt;February was quite a busy month. My mining operation has doubled in size which brought about some growing pains due to the need for better heat and space management. I learned the value of USB GPU risers which allowed for better placement of GPUs allowing them to run cooler while also allowing a consolidation down to three motherboards!&lt;/p&gt;
-
-&lt;p&gt;Now the rigs are running at comfortable temperatures, but the room temperature is still too warm for comfort. Luckily there&amp;#39;s an abundance of small room temperature management knowledge in the hydroponics community. After a bit of investigation, I now have a plan to better ventilate the basement once some new HVAC hardware arrives.&lt;/p&gt;
-
-&lt;p&gt;This month my preferred mining pool, &lt;a href=&quot;http://www.middlecoin.com&quot;&gt;Middlecoin&lt;/a&gt;, kinds of fell apart and had a few horrible days leading to an exodus of miners. Almost overnight half the hash rate of the pool migrated to other pools such as &lt;a href=&quot;http://www.clevermining.com&quot;&gt;CleverMining&lt;/a&gt; and &lt;a href=&quot;http://www.wafflepool.com&quot;&gt;WafflePool&lt;/a&gt;. I spent most of the month mining &lt;a href=&quot;http://www.maxcoin.co.uk&quot;&gt;MaxCoin&lt;/a&gt; which started off well but has seen a steady decline in value. Sure seems like a pump and dump.
-Maxcoin was interesting in that it was a SHA-3 coin. The SHA-3 algorithm is less memory intensive and allowed for lower GPU temps and power usage. I&amp;#39;d like to see more alt-coins using SHA-3 but for now I&amp;#39;ve gone back to mining scrypt at CleverMining.&lt;/p&gt;
-
-&lt;p&gt;Overall profitability of GPU mining has been relatively stable with CleverMining showing a payout rate of 0.01130 BTC/day/MHs over the past 30 days. (Note: This is no longer true as payout rates for all multipools has dropped nearly 30% since the beginning of March.)&lt;/p&gt;
-
-&lt;p&gt;In addition to mining on Clevermining, I&amp;#39;ve also started renting my rigs on &lt;a href=&quot;https://www.betarigs.com&quot;&gt;BetaRigs&lt;/a&gt; which had shown even larger returns. A high initial hash rate is crucial in generating buzz around new coins and pools so people involved in those activities are willing to pay above market rates to support their efforts. Helping with aforementioned pump and dumps?&lt;/p&gt;
-
-&lt;p&gt;Below is a chart of daily earnings with January in blue and February in Green. The two dips in the middle of February were due to issues with the MiddleCoin pool. The dip at the end of the month was due to a combination of Maxcoin&amp;#39;s decline and my rigs being rented which pushed a payout into the start of March.&lt;/p&gt;
-
-&lt;div class=&quot;panel panel-default&quot;&gt;
-  &lt;div class=&quot;panel-heading panel-title&quot;&gt;February Mining Results&lt;/div&gt;
-  &lt;div class=&quot;panel-body text-center&quot;&gt;
-    &lt;img src=&quot;/images/february-update.png&quot; alt=&quot;Janury Update&quot; class=&quot;img-responsive&quot;&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;For the month of March I&amp;#39;m going to slow down the growth rate of hash power until I can get power and temperature conditions in better shape.&lt;/p&gt;
 </content>
   </entry>
   
