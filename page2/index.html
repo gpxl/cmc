@@ -50,6 +50,46 @@
   <div class="article">
     <h3 class="title">
       
+      <a href="/gridseed-and-pi/">Scrypt Mining with a Gridseed ASIC, Raspberry Pi, and Scrypta</a>
+      
+    </h3>
+    <p>Dedicated hardware (ASICs) for scrypt mining finally hit the market in force last month with the release of the <a href="http://www.dualminer.com">DualMiner</a> and <a href="http://www.gridseed.com">Gridseed</a> ASIC mining devices. As expected, early adopters experienced a lot of pain with weak software, faulty hardware, and poor vendor support. However, things quickly improved at the same time an increase in distribution brought about better service from vendors and lower prices. The release of a dedicated <a href="https://litecointalk.org/index.php?topic=9908.0">Raspberry Pi distribution for Gridseed devices</a> finally made ASICs a viable alternative to GPU mining for most people.</p>
+
+<p>In order to truly understand what these devices are about, I purchased a Gridseed from <a href="http://zoomhash.com">ZoomHash</a>, an unloved <a href="http://en.wikipedia.org/wiki/Raspberry_Pi">Raspberry Pi</a> snagged from a coworker, and set out to see how ASICs compares to GPU mining.</p>
+
+<div class="panel panel-default">
+  <div class="panel-heading panel-title">Gridseed in Hand</div>
+  <div class="panel-body text-center">
+    <img src="/images/gridseed.jpg" alt="Gridseed" class="img-responsive">
+  </div>
+</div>
+
+<p>Setting up the Raspberry Pi was a simple matter of copying Scrypta to a SD card and plugging in the Pi. Once booted a web interface, located at the Pi&#39;s ip address, allows configuration of mining pools and displays mining status information. It&#39;s a well designed interface that&#39;s very nice to use.</p>
+
+<div class="panel panel-default">
+  <div class="panel-heading panel-title">Simply Pretty</div>
+  <div class="panel-body text-center">
+    <img src="/images/scripta.png" alt="Scripta" class="img-responsive">
+  </div>
+</div>
+
+<p>Once the Pi is ready, all that&#39;s left to do is to plug the Gridseed into the Pi with a USB cable and power on both the Gridseed and the Pi.</p>
+
+<p>That&#39;s all there is to it! Once booted, you should see the Gridseed hashing at 3.6mh/s on your pool of choice. Better yet, it will draw less than 9W of power while doing so, an order of magnitude less than a GPU mining card.</p>
+
+<p>Adding more Gridseeds gets slightly more complicated in that you will need to add a USB hub since each device requires a port. Each device requires their own power source as well. Using a simple power brick doesn&#39;t scale very well and using a larger power supply requires hacking together your own cables. However, I have no doubt that within the next 30 days a number of out of the box solutions will be on the market.</p>
+
+<p>Overall my experience with Gridseed Scrypt ASICs has been a positive one. So much so that I&#39;ve started downsizing my GPU mining in favor of them.</p>
+
+  </div>
+  
+  
+  
+  
+
+  <div class="article">
+    <h3 class="title">
+      
       <a href="/bitcoin-mining-update-february-2014/">Crypto Mining Update: February 2014</a>
       
     </h3>
