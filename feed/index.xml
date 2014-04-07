@@ -4,13 +4,24 @@
   <title>Crypto Miners Club</title>
   <link type="application/atom+xml" href="http://www.cryptominersclub.com/feed" rel="self"/>
   <link href="http://www.cryptominersclub.com" rel="alternate"/>
-  <updated>2014-04-02T22:53:59-07:00</updated>
+  <updated>2014-04-05T14:37:53-07:00</updated>
   <id>http://www.cryptominersclub.com</id>
   <author>
     <name>Gerlando Piro</name>
   </author>
   <rights>Copyright (c) 2014, Gerlando Piro; all rights reserved.</rights>
 
+  
+  <entry>
+    <title>Gridseed Blade Miners incoming</title>
+    <link href="http://www.cryptominersclub.com/gridseed-blade-miners-incoming/index.html"/>
+    <updated>2014-04-05T14:30:00-07:00</updated>
+    <id>http://www.cryptominersclub.com/gridseed-blade-miners-incoming/gridseed-blade-miners-incoming</id>
+    <content type="html">&lt;p&gt;MinerEU has information on a new 80 chip Gridseed Blade Miner that, unlike previous rumors, appears to be the real thing. Consisting of 2 individual blades, with separate usb and power plugs, and priced at $3,000; this new miner doesn&amp;#39;t appear to have much advantage over the current 5 chip models other than space savings.&lt;/p&gt;
+
+&lt;p&gt;It&amp;#39;s anyone&amp;#39;s guess as to who are buying these as mining continues to lull in the depths of unprofitablity.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Market Conditions : April 2</title>
@@ -397,19 +408,6 @@ Right after this article went live, ZoomHash announced a 20 pack of Gridseed min
 
 &lt;blockquote&gt;
 &lt;p&gt;&amp;quot;[Bitcoin market]...activity took the form of 67,054 transactions recorded in the Bitcoin blockchain, in which 630,633.08 BTC changed hands. Next to Wall Street, where the NYSE alone trades 1.4 billion shares and $58 billion in value daily...&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>Whoops!</title>
-    <link href="http://www.cryptominersclub.com/whoops/index.html"/>
-    <updated>2014-03-24T00:00:00-07:00</updated>
-    <id>http://www.cryptominersclub.com/whoops/whoops</id>
-    <content type="html">&lt;p&gt;Alex Green, intending to donate 2M Dogecoin to doge4nascar, accidentally donated 20M due to a slip of the keyboard. Seems like he&amp;#39;s taking the $14k mistake in good stride though.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Was meant to be 2M... silly keyboard. I will stand by my mistake however! Anybody care to match me? The first person to match at least 10% will receive a hot pass to Talladega :-).&lt;/p&gt;
 &lt;/blockquote&gt;
 </content>
   </entry>
