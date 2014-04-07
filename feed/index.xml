@@ -4,13 +4,59 @@
   <title>Crypto Miners Club</title>
   <link type="application/atom+xml" href="http://www.cryptominersclub.com/feed" rel="self"/>
   <link href="http://www.cryptominersclub.com" rel="alternate"/>
-  <updated>2014-04-05T14:37:53-07:00</updated>
+  <updated>2014-04-06T19:59:48-07:00</updated>
   <id>http://www.cryptominersclub.com</id>
   <author>
     <name>Gerlando Piro</name>
   </author>
   <rights>Copyright (c) 2014, Gerlando Piro; all rights reserved.</rights>
 
+  
+  <entry>
+    <title>Market Conditions : April 6</title>
+    <link href="http://www.cryptominersclub.com/market-conditions-april-6/index.html"/>
+    <updated>2014-04-06T09:53:00-07:00</updated>
+    <id>http://www.cryptominersclub.com/market-conditions-april-6/market-conditions-april-6</id>
+    <content type="html">&lt;p&gt;
+  I&#39;m thinking of removing GPU mining from future updates until there&#39;s any sign of a come back, which might never happen.
+&lt;/p&gt;
+
+&lt;div class=&quot;panel panel-danger&quot;&gt;
+  &lt;div class=&quot;panel-heading&quot;&gt;
+    &lt;h3 class=&quot;panel-title&quot;&gt;GPU Mining : &lt;span class=&quot;glyphicon glyphicon-chevron-down&quot;&gt;&lt;/span&gt; Sell&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;panel-body&quot;&gt;
+    &lt;p&gt;
+      GPU miners should be selling or playing a lot of video games with their GPUS.
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;panel panel-warning&quot;&gt;
+  &lt;div class=&quot;panel-heading&quot;&gt;
+    &lt;h3 class=&quot;panel-title&quot;&gt;ASIC Mining (Scrypt): &lt;span class=&quot;glyphicon glyphicon-minus&quot;&gt;&lt;/span&gt; Hold&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;panel-body&quot;&gt;
+    &lt;p&gt;
+      Gridseed has introduced a more compact, but no less expensive, &lt;a href=&quot;/gridseed-blade-miners-incoming&quot;&gt;blade miner&lt;/a&gt;, but I still cannot recommend purchasing due to a non existant ROI. Alternative ASICs are nowhere to be seen.
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;panel panel-warning&quot;&gt;
+  &lt;div class=&quot;panel-heading&quot;&gt;
+    &lt;h3 class=&quot;panel-title&quot;&gt;Bitcoin Holdings: &lt;span class=&quot;glyphicon glyphicon-chevron-minus&quot;&gt;&lt;/span&gt; Hold&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;panel-body&quot;&gt;
+    &lt;p&gt;
+      We&#39;re seeing a good amount of support at current levels, but risks from China&#39;s banning of crypto currencies are still high.
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h4&gt;Sign up for our email list below and never miss another update!&lt;/h4&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Gridseed Blade Miners incoming</title>
@@ -396,19 +442,6 @@ Right after this article went live, ZoomHash announced a 20 pack of Gridseed min
     <updated>2014-03-25T00:00:00-07:00</updated>
     <id>http://www.cryptominersclub.com/whos-blockchain/whos-blockchain</id>
     <content type="html">&lt;p&gt;We&amp;#39;re going to see a lot more growing pains with the Bitcoin protocol as more services extend blockchain usage in creative ways.&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>Here Come The Institutional Investors</title>
-    <link href="http://www.cryptominersclub.com/here-they-come/index.html"/>
-    <updated>2014-03-25T00:00:00-07:00</updated>
-    <id>http://www.cryptominersclub.com/here-they-come/here-they-come</id>
-    <content type="html">&lt;p&gt;There&amp;#39;s a race to bring institutional money into the Bitcoin market. As much as Bitcoin has grown in the past four years it&amp;#39;s nothing compared to the traditional financial markets. This is going to be interesting.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;[Bitcoin market]...activity took the form of 67,054 transactions recorded in the Bitcoin blockchain, in which 630,633.08 BTC changed hands. Next to Wall Street, where the NYSE alone trades 1.4 billion shares and $58 billion in value daily...&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
 </content>
   </entry>
   
