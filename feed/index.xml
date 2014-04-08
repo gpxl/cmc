@@ -4,13 +4,22 @@
   <title>Crypto Miners Club</title>
   <link type="application/atom+xml" href="http://www.cryptominersclub.com/feed" rel="self"/>
   <link href="http://www.cryptominersclub.com" rel="alternate"/>
-  <updated>2014-04-06T19:59:48-07:00</updated>
+  <updated>2014-04-07T20:41:18-07:00</updated>
   <id>http://www.cryptominersclub.com</id>
   <author>
     <name>Gerlando Piro</name>
   </author>
   <rights>Copyright (c) 2014, Gerlando Piro; all rights reserved.</rights>
 
+  
+  <entry>
+    <title>GHash.io Multipool Enters Beta</title>
+    <link href="http://www.cryptominersclub.com/ghashio-multipool-beta/index.html"/>
+    <updated>2014-04-07T20:32:00-07:00</updated>
+    <id>http://www.cryptominersclub.com/ghashio-multipool-beta/ghashio-multipool-beta</id>
+    <content type="html">&lt;p&gt;It&amp;#39;s pretty clear that GHash wants to maintain it&amp;#39;s lead in the mining pool world. Not only do their maintain their 0% fee, they allow miners to select which coins to mine &lt;strong&gt;and&lt;/strong&gt; whether to keep mined coins or auto convert to BTC or LTC. Very nice!&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Market Conditions : April 6</title>
@@ -433,15 +442,6 @@ Right after this article went live, ZoomHash announced a 20 pack of Gridseed min
 &lt;p&gt;Gridseed ASIC miners in particular have seen a huge price decline of over 20% from $250 to $199 or less depending on vendor. To put it another way, the price of these miners is falling faster than the amount of coin value they can generate.&lt;/p&gt;
 
 &lt;p&gt;Even with the price drop the ability of these devices to break even is questionable so further price drops should be expected as vendors squeeze each others margins in a race to the bottom.&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>Who's Block Chain Is It?</title>
-    <link href="http://www.cryptominersclub.com/whos-blockchain/index.html"/>
-    <updated>2014-03-25T00:00:00-07:00</updated>
-    <id>http://www.cryptominersclub.com/whos-blockchain/whos-blockchain</id>
-    <content type="html">&lt;p&gt;We&amp;#39;re going to see a lot more growing pains with the Bitcoin protocol as more services extend blockchain usage in creative ways.&lt;/p&gt;
 </content>
   </entry>
   
