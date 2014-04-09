@@ -4,13 +4,22 @@
   <title>Crypto Miners Club</title>
   <link type="application/atom+xml" href="http://www.cryptominersclub.com/feed" rel="self"/>
   <link href="http://www.cryptominersclub.com" rel="alternate"/>
-  <updated>2014-04-07T20:41:18-07:00</updated>
+  <updated>2014-04-09T07:46:38-07:00</updated>
   <id>http://www.cryptominersclub.com</id>
   <author>
     <name>Gerlando Piro</name>
   </author>
   <rights>Copyright (c) 2014, Gerlando Piro; all rights reserved.</rights>
 
+  
+  <entry>
+    <title>Gridseed prices still dropping, still non worth it.</title>
+    <link href="http://www.cryptominersclub.com/greedseed-prices-still-dropping/index.html"/>
+    <updated>2014-04-09T20:32:00-07:00</updated>
+    <id>http://www.cryptominersclub.com/greedseed-prices-still-dropping/greedseed-prices-still-dropping</id>
+    <content type="html">&lt;p&gt;My favorite Scrypt ASIC vendor, ZoomHash, have single &lt;a href=&quot;http://zoomhash.com/products/batch-12-gridseed-5-chip-320-420-kh-s-asic-scrypt-sha-miner-ships-from-los-angeles&quot;&gt;5 chip Gridseed Miners for $145&lt;/a&gt;. If these had any chance of ROI I&amp;#39;d be ordering some, but with current market conditions these should see a daily return of around $0.70 USD. That&amp;#39;s a &lt;strong&gt;long&lt;/strong&gt; time till break even! &lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>GHash.io Multipool Enters Beta</title>
@@ -425,23 +434,6 @@
 &lt;blockquote&gt;
 &lt;p&gt;&amp;quot;Bitcoin miners would have to report their earnings as taxable income with a value equal to the worth on the day it was mined. If they mine as part of a business, they would have to pay payroll taxes as well.&amp;quot;&lt;/p&gt;
 &lt;/blockquote&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>Prices on Gridseeds are Dropping</title>
-    <link href="http://www.cryptominersclub.com/gridseed-prices-are-dropping/index.html"/>
-    <updated>2014-03-25T09:21:00-07:00</updated>
-    <id>http://www.cryptominersclub.com/gridseed-prices-are-dropping/gridseed-prices-are-dropping</id>
-    <content type="html">&lt;div class=&quot;alert alert-warning&quot;&gt;
-Right after this article went live, ZoomHash announced a 20 pack of Gridseed miners for $165/each &lt;a href=&quot;http://zoomhash.com/products/20-pack-just-asics-only-no-accessories-shipped-from-china-2-4-business-day-door-to-door-free-shipping-oem-packaging&quot;&gt;here&lt;/a&gt;.
-&lt;/div&gt;
-
-&lt;p&gt;The announcement of the &lt;a href=&quot;https://www.kncminer.com/products/titan&quot;&gt;KNC Titan&lt;/a&gt; last week, and the inevitable spike in mining difficulty it will bring, shocked the mining world and effects are already being seen in the prices of mining hardware. &lt;/p&gt;
-
-&lt;p&gt;Gridseed ASIC miners in particular have seen a huge price decline of over 20% from $250 to $199 or less depending on vendor. To put it another way, the price of these miners is falling faster than the amount of coin value they can generate.&lt;/p&gt;
-
-&lt;p&gt;Even with the price drop the ability of these devices to break even is questionable so further price drops should be expected as vendors squeeze each others margins in a race to the bottom.&lt;/p&gt;
 </content>
   </entry>
   
