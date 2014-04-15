@@ -4,13 +4,58 @@
   <title>Crypto Miners Club</title>
   <link type="application/atom+xml" href="http://www.cryptominersclub.com/feed" rel="self"/>
   <link href="http://www.cryptominersclub.com" rel="alternate"/>
-  <updated>2014-04-11T08:22:36-07:00</updated>
+  <updated>2014-04-15T08:22:35-07:00</updated>
   <id>http://www.cryptominersclub.com</id>
   <author>
     <name>Gerlando Piro</name>
   </author>
   <rights>Copyright (c) 2014, Gerlando Piro; all rights reserved.</rights>
 
+  
+  <entry>
+    <title>Market Conditions : April 15</title>
+    <link href="http://www.cryptominersclub.com/market-conditions-april-15/index.html"/>
+    <updated>2014-04-15T07:55:00-07:00</updated>
+    <id>http://www.cryptominersclub.com/market-conditions-april-15/market-conditions-april-15</id>
+    <content type="html">&lt;p&gt;
+  Bitcoin values are coming back now that the April 15th PBOC deadline has passed with no declaration of a ban on BTC in China. While there&#39;s been a strong bounce in the past couple of days we need to see prices break through the $500-$525 range for a buy signal. Recent drops in the price of Gridseed miners put ROI at a more historically normal 80-90 days. A bit more upside on BTC prices and ASICs might be a deal. 
+&lt;/p&gt;
+
+&lt;p&gt;
+  After months of dread things are finally looking up!
+&lt;/p&gt;
+
+&lt;div class=&quot;panel panel-warning&quot;&gt;
+  &lt;div class=&quot;panel-heading&quot;&gt;
+    &lt;h3 class=&quot;panel-title&quot;&gt;ASIC Mining (Scrypt): &lt;span class=&quot;glyphicon glyphicon-minus&quot;&gt;&lt;/span&gt; Hold&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;panel-body&quot;&gt;
+    &lt;p&gt;
+      Gridseed prices are at a 80 day ROI for balde miners (at $1600) and 90 days for 5 chip miners (at $130).
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;panel panel-warning&quot;&gt;
+  &lt;div class=&quot;panel-heading&quot;&gt;
+    &lt;h3 class=&quot;panel-title&quot;&gt;Bitcoin Holdings: &lt;span class=&quot;glyphicon glyphicon-minus&quot;&gt;&lt;/span&gt; Hold&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;panel-body&quot;&gt;
+    &lt;p&gt;
+      Given the recent bounce we need to see a break through the $500-525 range before aquiring more BTC.
+    &lt;/p&gt;
+    &lt;div class=&quot;panel panel-default&quot;&gt;
+      &lt;div class=&quot;panel-body text-center&quot;&gt;
+        &lt;img src=&quot;/images/market-4-15-2014.jpg&quot; alt=&quot;Downward&quot; class=&quot;img-responsive&quot;&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;panel-footer&quot;&gt;&lt;small&gt;Source: &lt;a href=&quot;http://bitcoinity.org/markets&quot;&gt;Bitcoinity&lt;/a&gt;&lt;/small&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h4&gt;Sign up for our email list below and never miss another update!&lt;/h4&gt;
+</content>
+  </entry>
   
   <entry>
     <title>How low can they go?</title>
@@ -409,27 +454,6 @@
 &lt;blockquote&gt;
 &lt;p&gt;The operations are fueled by thousands of mining rigs containing more than 1.4 million BitFury mining chips, while Raspberry Pis loaded with custom software direct traffic on each rig.&lt;/p&gt;
 &lt;/blockquote&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>How to Lose Money With Bitcoin, Litecoin, and Dogecoin : Step 1</title>
-    <link href="http://www.cryptominersclub.com/how-to-lose-money-mining-step-1/index.html"/>
-    <updated>2014-03-26T18:00:00-07:00</updated>
-    <id>http://www.cryptominersclub.com/how-to-lose-money-mining-step-1/how-to-lose-money-mining-step-1</id>
-    <content type="html">&lt;h2&gt;Preorder ASIC Hardware&lt;/h2&gt;
-
-&lt;p&gt;The mining community has a bad habit of purchasing hardware that does not yet exist. The most recent example is the &lt;a href=&quot;https://www.kncminer.com/products/titan&quot;&gt;KNC Titan&lt;/a&gt;, a $10k scrypt miner with no set release date that booked &lt;a href=&quot;http://techcrunch.com/2014/03/20/kncminer-sells-2-million-worth-of-scrypt-mining-machines-in-four-hours&quot;&gt;$2M in non-refundable preorders within &lt;strong&gt;4 hours&lt;/strong&gt;&lt;/a&gt;. &lt;/p&gt;
-
-&lt;p&gt;This practice is bad for miners for a number of reasons including:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Delays&lt;/strong&gt;: Since the start of ASIC mining there has yet to be a product delivered on time. Since time is money in the mining world, any delay &lt;em&gt;reduces your chance of break even&lt;/em&gt; on your hardware. Butterfly Labs (&lt;a href=&quot;http://www.urbandictionary.com/define.php?term=bfl&quot;&gt;BFL&lt;/a&gt;) is notorious for delaying products until they have no value. Alpha Technologies have been in development since &lt;a href=&quot;https://alpha-t.net/news/development-update-29052013&quot;&gt;May 2013&lt;/a&gt; and have yet to show a product. &lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Providing Free Loans&lt;/strong&gt;: A preorder is little more than a free loan for the manufacturer with no payback time frame. You are effectively trading cash for the prospect of mining in the future.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Funding The Competition&lt;/strong&gt;: No one gets hardware sooner or cheaper than the manufacturer. This created a strong financial incentive to delay shipping products to customers in order to mine with their hardware. This practice can be easily argued for by manufacturers as burn-in or quality testing.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;While it is clear that preorders have been bad for customers, the practice continues because it is lucerative for the manufacturers involved. As such, we cannot expect the practice to end any time soon. But one could hope!&lt;/p&gt;
 </content>
   </entry>
   
